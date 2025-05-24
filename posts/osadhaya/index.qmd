@@ -10,7 +10,7 @@ This mantra is from Ṛgveda 10.97.22(a-b).
 | - óṣadhayassáṃvadante
 | óṣadh-ayaḥ sáṃ-vad-ante
 | herb-NOM:PL with-sing-3PL.PRS.IND.MEDP
-| - ''
+| - 'The healing herbs sing together'
 :::
 ::::
 
@@ -20,6 +20,6 @@ This mantra is from Ṛgveda 10.97.22(a-b).
 | - sómena sahá rā́jñā
 | sóm-ena sahá rā́jñā
 | soma-INST.SG COM king-INST.SG
-| - ''
+| - 'with the king Soma.'
 :::
 ::::
