@@ -1,0 +1,27 @@
+---
+title: Gāyatrī
+---
+
+The Gāyatrī mantra is an invocation of the Sun God (Savitṛ), from the Ṛgveda (3.62.10).
+
+:::: ex
+::: gl
+| - तत्स॑वि॒तुर्वरे॑ण्यं॒ भर्गो॑ दे॒वस्य॑धीमहि ।
+| - tatsaviturvareṇyaṃ bhargo devasyadhīmahi
+| tat savituḥ vareṇyaṃ bhargaḥ devasya dhīmahi
+| that.ACC:SG sun.GEN:SG excellent.ACC:SG  radiance.ACC:SG  god.GEN:SG meditate.OPT:1PL
+| that {of the Sun} excellent radiance {of the god} {let's meditate}
+| - 'Let's meditate on that excellent radiance of the Sun god,'
+:::
+::::
+
+:::: ex
+::: gl
+| - धियो॒ यो नः॑ प्रचो॒दया॑त् ॥
+| - dhiyo yo naḥ pracodayāt
+| dhiyaḥ yaḥ naḥ pracodayāt
+| thought.ACC:PL who 1PL:POSS inspire.
+| thoughts who our {he shall inspire}
+| - 'who shall inspire our thoughts.'
+:::
+::::
