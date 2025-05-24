@@ -9,3 +9,6 @@ title-block-banner: true
 
 filters:
   - interlinear
+gloss_abbreviations:
+  MEDP: "mediopassive"
+  INST: "instrumental"

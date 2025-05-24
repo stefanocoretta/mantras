@@ -1,0 +1,25 @@
+---
+title: "Oṣadhayaḥ"
+---
+
+This mantra is from Ṛgveda 10.97.22(a-b).
+
+:::: ex
+::: gl
+| - ओष॑धयस्संव॑दन्ते॒
+| - óṣadhayassáṃvadante
+| óṣadh-ayaḥ sáṃ-vad-ante
+| herb-NOM:PL with-sing-3PL.PRS.IND.MEDP
+| - ''
+:::
+::::
+
+:::: ex
+::: gl
+| - सोमे॑न स॒ह राज्ञा᳚
+| - sómena sahá rā́jñā
+| sóm-ena sahá rā́jñā
+| soma-INST.SG COM king-INST.SG
+| - ''
+:::
+::::
