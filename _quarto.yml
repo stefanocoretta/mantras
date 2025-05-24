@@ -17,6 +17,9 @@ format:
       - cosmo
       - brand
     css: styles.css
+    mainfont: "'Source Sans Pro','Noto Sans Devanagari'"
+    include-in-header:
+      - google-fonts.html
 
 
 

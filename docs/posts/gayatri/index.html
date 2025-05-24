@@ -39,7 +39,37 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-c93e3dbecb83c4c4eb73e26bb46f321d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@100..900&amp;display=swap" rel="stylesheet">
 <link rel="stylesheet" href="//unpkg.com/leipzig/dist/leipzig.min.css">
 
 
@@ -141,18 +171,6 @@ ul.task-list li input[type="checkbox"] {
 
 
 </main> <!-- /main -->
-<script src="//unpkg.com/leipzig/dist/leipzig.min.js"></script>
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  Leipzig().gloss();
-});
-</script>
-<style>
-.gloss__words:first-child, .gloss--glossed li:first-child {
-    margin-top: 0em !important
-}
-</style>
-  
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -553,6 +571,23 @@ document.addEventListener('DOMContentLoaded', function() {
   });
   </script>
 </div> <!-- /content -->
+<script src="//unpkg.com/leipzig/dist/leipzig.min.js"></script>
+<script>
+    var newAbbreviations = {
+MEDP: 'mediopassive', INST: 'instrumental'};
+    Leipzig().addAbbreviations(newAbbreviations);
+</script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    Leipzig().gloss();
+});
+</script>
+<style>
+.gloss__words:first-child, .gloss--glossed li:first-child {
+        margin-top: 0em !important
+}
+</style>
+    
 
 
 
