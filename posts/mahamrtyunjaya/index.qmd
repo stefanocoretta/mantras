@@ -1,0 +1,20 @@
+---
+title: "Mahāmṛtyuṃjaya mantra"
+draft: true
+---
+
+::: ex
+:::: gl
+| - त्र्य॑म्बकं यजामहे सु॒गन्धिं॑ पुष्टि॒वर्ध॑नम् ।
+| - tryàmbakaṃ yajāmahe sugándhim puṣṭivárdhanam
+| tryàmbakam yajāmahe su-gándhim puṣṭi-várdhanam
+::::
+:::
+
+::: ex
+:::: gl
+| - उ॒र्वा॒रु॒कमि॑व॒ बन्ध॑नान्मृ॒त्योर्मु॑क्षीय॒ माऽमृता॑॑त् ॥
+| - urvārukám iva bándhanān mṛtyór mukṣīya mā́mrṛtāt
+| urvārukám iva bándhanān mṛtyór mukṣīya mā́ amṛtāt
+::::
+:::
